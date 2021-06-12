@@ -3,19 +3,11 @@
   <entry>
     <title>Hello World</title>
     <url>/2021/06/07/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+    <content><![CDATA[<p>Hello，这里是Wenting的第一篇博客。</p>
+<p>我现在是THU EEA的一名大四学生，还有十几天就要毕业了，将于今年9月进入Stanford ERE读硕士。</p>
+<p>不过别担心，这不是什么正经又学术的个人网站，后者等我有东西放了也许会再建一个。建这个博客，主要原因是太无聊了😅，次要原因是，偶然看见有学弟学妹提议促进出国交流机会的信息互通，不太认同老师们的回复“希望同学们抓住机会，不要等机会送到面前来，而要自己积极争取”。个人认为打开信息渠道，拥有比较和选择的自由，是非常重要的，不管对于出国还是其他方面。我不是任何专家，但经历了信息不对称的迷茫，也付出了代价，因此想为自己整理一下资源和资料，如果有任何人恰好看到并能起到一些帮助也再好不过。对于这部分内容，希望能做到都是干货，尽量少抒发观点和主观感受。</p>
+<p>剩下部分随意一些，也许会发经验回顾贴，弱智debug记录，旅行游记（以练习插入图片和视频）。总之，以上也只是我的设想。</p>
+<p>最后放一张我家狗子叭～<br><img src="https://z3.ax1x.com/2021/06/12/2IFZgU.md.jpg" width="40%" height="40%" /></p>
 ]]></content>
   </entry>
 </search>
